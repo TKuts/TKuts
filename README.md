@@ -25,6 +25,6 @@ ____
 #
 
 <details>
-    <summary><h3>🧑‍💻 TKuts' Coding Journey</h3></summary>
-    sadasdasd545
+    <summary><h3>🧑‍💻 Anton Kuts' Coding Journey</h3></summary>
+    
 </details>
