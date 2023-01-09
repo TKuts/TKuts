@@ -21,7 +21,7 @@ ____
 
 ### 📈 Stats
 
-![Kuts's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkuts&show_icons=true&theme=prussian)
+![Kuts' GitHub stats](https://github-readme-stats.vercel.app/api?username=tkuts&show_icons=true&theme=city_lights)
 #
 
 <details>
