@@ -26,5 +26,7 @@ ____
 
 <details>
     <summary><h3>🧑‍💻 Anton Kuts' Coding Journey</h3></summary>
-    
+    My programming journey began when I majored in Social Media Marketing from the "Hillel" IT academy. There I encountered an IT department graduate who told me about IT and opened my eyes to new opportunities.
+That inspired me to complete a Front-end development course in 2022 where I learned to write both one-page websites and complex projects that solve business problems. I learned how to use HTML5, CSS, JavaScript, React and other tools for web development.
+I am a true tech enthusiast and I spend all my free time writing codes. I’m currently working on creating a To-do list application based on the React.js library. I'm constantly improving my skills and learning new approaches to problem solving.
 </details>
